@@ -1,0 +1,668 @@
+Email_id,email_body,URL,attached_file,Label
+catherine.mainolfi@university.edu,Breaking news: Major earthquake hits California.,https://university.edu/tracking/12345,report_89.xls,Legitimate Email
+william.stella@automotive.com,Someone has tagged you in a photo! See it now.,hxxp://social-media-photo.click,malware_20.html,Phishing Email
+georgetta.napier@social.media,Your medical records are now available online.,https://social.media/courses/cs101/assignments,report_29.csv,Legitimate Email
+ronald.cloutier@pets.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_34.vbs,Phishing Email
+albert.flanagan@news.com,New article: The future of AI in 2024.,https://news.com/tracking/12345,report_80.xls,Legitimate Email
+ramona.santana@news.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online/login,malware_5.vbs,Phishing Email
+joan.gray@education.com,Someone has tagged you in a photo! See it now.,hxxp://social-media-photo.click,malware_18.html,Phishing Email
+shari.santos@language.com,Your order has shipped! Track your package here.,https://language.com/tracking/12345,invoice_46.pdf,Legitimate Email
+adele.profitt@psychology.com,Your order has shipped! Track your package here.,https://psychology.com/updates,document_5.txt,Legitimate Email
+sallie.holland@diy.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com/verify,malware_51.exe,Phishing Email
+frank.nichols@software.com,Meeting reminder: Project Alpha review at 2 PM today.,https://software.com/portfolio/update,document_30.xls,Legitimate Email
+michael.kerley@design.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com/login,malware_34.scr,Phishing Email
+winston.kelly@science.com,"Dear Winston Kelly, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/login,malware_44.html,Phishing Email
+marla.turner@sports.com,"Professor turner, the assignment deadline is approaching.",https://sports.com/donate,document_76.csv,Legitimate Email
+luke.dunbar@music.com,Breaking news: Major earthquake hits California.,https://music.com/earthquake,document_98.csv,Legitimate Email
+donna.torbert@geography.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/verify,malware_81.scr,Phishing Email
+edwin.drinkard@psychology.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/login,malware_55.vbs,Phishing Email
+grady.coyle@logistics.com,New article: The future of AI in 2024.,https://logistics.com/portfolio/update,document_47.xls,Legitimate Email
+cory.legace@gardening.com,Donate now to support our cause and help children.,https://gardening.com/bookings/confirmation,document_82.ppt,Legitimate Email
+ted.martinie@science.com,Meeting reminder: Project Alpha review at 2 PM today.,https://science.com/articles/ai-2024,summary_66.xls,Legitimate Email
+nathaniel.droke@news.com,"Dear Nathaniel Droke, your account has been compromised. Please verify your details immediately.",hxxp://social-media-photo.click,malware_49.scr,Phishing Email
+sandra.steiner@art.com,Breaking news: Major earthquake hits California.,https://art.com/meetings/alpha-review,summary_83.txt,Legitimate Email
+evelyn.sullivan@science.com,"Professor sullivan, the assignment deadline is approaching.",https://science.com/articles/ai-2024,report_46.txt,Legitimate Email
+michael.hebert@design.com,Your order has shipped! Track your package here.,https://design.com/portfolio/update,document_26.xls,Legitimate Email
+mary.nieto@chemistry.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com,malware_41.exe,Phishing Email
+daniela.burden@travel.com,"Dear Daniela Burden, your account has been compromised. Please verify your details immediately.",hxxps://tax-refund-gov.online,malware_75.exe,Phishing Email
+ursula.wallace@chemistry.com,Your order has shipped! Track your package here.,https://chemistry.com/articles/ai-2024,document_36.txt,Legitimate Email
+felix.yoder@history.com,Exclusive sale: 50% off all items this weekend!,https://history.com/earthquake,report_52.docx,Legitimate Email
+gemma.perron@economics.com,Your order has shipped! Track your package here.,https://economics.com/meetings/alpha-review,document_15.pdf,Legitimate Email
+marc.dawkins@marketing.com,Someone has tagged you in a photo! See it now.,hxxp://social-media-photo.click,malware_83.js,Phishing Email
+charles.duerr@economics.com,Your flight booking confirmation: [Booking ID].,https://economics.com/tracking/12345,summary_64.csv,Legitimate Email
+george.vance@another.net,"Dear George Vance, your account has been compromised. Please verify your details immediately.",hxxp://verify-account-now.secure-login.com,malware_95.js,Phishing Email
+joe.londono@design.com,"Dear Joe Londono, your account has been compromised. Please verify your details immediately.",hxxp://verify-account-now.secure-login.com,malware_29.zip,Phishing Email
+sarah.cambre@art.com,New article: The future of AI in 2024.,https://art.com/sale,document_54.xls,Legitimate Email
+kenneth.smalls@astronomy.com,Donate now to support our cause and help children.,https://astronomy.com/courses/cs101/assignments,summary_91.ppt,Legitimate Email
+mohammad.penn@gardening.com,New article: The future of AI in 2024.,https://gardening.com/portfolio/update,document_99.txt,Legitimate Email
+gladys.sweeney@education.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com,malware_63.html,Phishing Email
+richard.krause@manufacturing.com,"Professor krause, the assignment deadline is approaching.",https://manufacturing.com/bookings/confirmation,summary_28.txt,Legitimate Email
+nancy.larsen@healthcare.org,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com/verify,malware_63.scr,Phishing Email
+victoria.green@finance.co,"Dear Victoria Green, your account has been compromised. Please verify your details immediately.",hxxp://verify-account-now.secure-login.com,malware_87.vbs,Phishing Email
+angela.hall@techblog.com,"Dear Angela Hall, your account has been compromised. Please verify your details immediately.",hxxp://bank-login-urgent.com,malware_95.scr,Phishing Email
+kelly.sammon@pets.com,Breaking news: Major earthquake hits California.,https://pets.com/courses/cs101/assignments,invoice_17.csv,Legitimate Email
+alicia.raby@design.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_30.html,Phishing Email
+david.howard@retail.com,New article: The future of AI in 2024.,https://retail.com/courses/cs101/assignments,summary_29.xls,Legitimate Email
+alfred.cole@psychology.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com,malware_54.zip,Phishing Email
+fern.kyer@realestate.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/verify,malware_81.zip,Phishing Email
+shirley.ball@another.net,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/login,malware_21.exe,Phishing Email
+mario.spinner@games.com,Donate now to support our cause and help children.,https://games.com/bookings/confirmation,report_33.xls,Legitimate Email
+ann.harper@another.net,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/verify,malware_49.vbs,Phishing Email
+will.mccray@education.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com/verify,malware_27.scr,Phishing Email
+lise.ward@gov.uk,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_72.zip,Phishing Email
+ofelia.parson@marketing.com,Important: Your investment portfolio update.,https://marketing.com/meetings/alpha-review,report_84.pdf,Legitimate Email
+rodney.bohlke@economics.com,Your medical records are now available online.,https://economics.com/updates,report_31.xls,Legitimate Email
+karen.herrera@movies.com,Your order has shipped! Track your package here.,https://movies.com/portfolio/update,invoice_16.docx,Legitimate Email
+maria.salinas@mathematics.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/verify,malware_100.vbs,Phishing Email
+greg.heyd@software.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://free-iphone-now.prize-claim.com,malware_81.exe,Phishing Email
+michael.walsh@pets.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online,malware_75.vbs,Phishing Email
+jane.wilson@economics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/verify,malware_88.scr,Phishing Email
+mary.freeman@design.com,New article: The future of AI in 2024.,https://design.com/bookings/confirmation,document_41.docx,Legitimate Email
+mae.bundy@telecom.com,Breaking news: Major earthquake hits California.,https://telecom.com/courses/cs101/assignments,document_65.csv,Legitimate Email
+andrew.starling@travel.com,Your flight booking confirmation: [Booking ID].,https://travel.com/donate,invoice_44.ppt,Legitimate Email
+virgil.flannery@psychology.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online/login,malware_18.zip,Phishing Email
+daniel.rider@restaurant.com,Donate now to support our cause and help children.,https://restaurant.com/earthquake,document_54.pdf,Legitimate Email
+angela.harmon@economics.com,New article: The future of AI in 2024.,https://economics.com/updates,report_49.xls,Legitimate Email
+frederick.atwood@art.com,Breaking news: Major earthquake hits California.,https://art.com/bookings/confirmation,report_14.xls,Legitimate Email
+solomon.beasley@onlinestore.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click/verify,malware_45.vbs,Phishing Email
+yvette.keaney@movies.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/login,malware_93.scr,Phishing Email
+katherine.knell@history.com,"Dear Katherine Knell, your account has been compromised. Please verify your details immediately.",hxxp://bank-login-urgent.com,malware_62.zip,Phishing Email
+harvey.johnson@design.com,Meeting reminder: Project Alpha review at 2 PM today.,https://design.com/patient-portal,report_50.xls,Legitimate Email
+richard.peoples@telecom.com,"Dear Richard Peoples, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_80.js,Phishing Email
+jennifer.smith@fashion.com,Donate now to support our cause and help children.,https://fashion.com/sale,document_71.xls,Legitimate Email
+delia.edie@education.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com/login,malware_97.scr,Phishing Email
+william.reader@retail.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com,malware_46.js,Phishing Email
+raymond.stevens@social.media,Your order has shipped! Track your package here.,https://social.media/earthquake,document_38.xls,Legitimate Email
+steve.cunningham@design.com,Exclusive sale: 50% off all items this weekend!,https://design.com/articles/ai-2024,invoice_8.ppt,Legitimate Email
+theressa.martinez@psychology.com,Your flight booking confirmation: [Booking ID].,https://psychology.com/tracking/12345,report_86.xls,Legitimate Email
+kevin.berry@chemistry.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/verify,malware_64.html,Phishing Email
+mary.brown@example.com,Breaking news: Major earthquake hits California.,https://example.com/donate,document_6.pdf,Legitimate Email
+randy.sweeney@economics.com,Important: Your investment portfolio update.,https://economics.com/bookings/confirmation,document_17.ppt,Legitimate Email
+lisa.strelow@fitness.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/login,malware_98.exe,Phishing Email
+susan.abbot@telecom.com,Donate now to support our cause and help children.,https://telecom.com/courses/cs101/assignments,summary_67.csv,Legitimate Email
+elizabeth.gneiser@books.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/login,malware_79.zip,Phishing Email
+brett.guzman@physics.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/login,malware_60.exe,Phishing Email
+hector.gamez@gov.uk,Your flight booking confirmation: [Booking ID].,https://gov.uk/courses/cs101/assignments,invoice_89.xls,Legitimate Email
+lucas.flanders@psychology.com,"Dear Lucas Flanders, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com,malware_66.exe,Phishing Email
+marcus.henderson@pets.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/login,malware_71.exe,Phishing Email
+christel.marvin@software.com,Meeting reminder: Project Alpha review at 2 PM today.,https://software.com/articles/ai-2024,invoice_82.docx,Legitimate Email
+joshua.cater@design.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com,malware_75.zip,Phishing Email
+jenelle.ballard@philosophy.com,"Professor ballard, the assignment deadline is approaching.",https://philosophy.com/bookings/confirmation,report_4.ppt,Legitimate Email
+valerie.liaw@consulting.com,Your order has shipped! Track your package here.,https://consulting.com/patient-portal,document_90.pdf,Legitimate Email
+virginia.clark@manufacturing.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://bank-login-urgent.com,malware_89.scr,Phishing Email
+tamara.dierks@philosophy.com,Donate now to support our cause and help children.,https://philosophy.com/patient-portal,report_73.pdf,Legitimate Email
+roderick.branch@mathematics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/login,malware_94.exe,Phishing Email
+freda.russell@realestate.com,Your order has shipped! Track your package here.,https://realestate.com/updates,summary_50.txt,Legitimate Email
+annie.hurst@diy.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/login,malware_60.exe,Phishing Email
+tammy.moody@energy.com,Donate now to support our cause and help children.,https://energy.com/donate,report_22.ppt,Legitimate Email
+daryl.braxton@physics.com,"Professor braxton, the assignment deadline is approaching.",https://physics.com/donate,summary_9.txt,Legitimate Email
+robin.hayes@sports.com,"Dear Robin Hayes, your account has been compromised. Please verify your details immediately.",hxxps://social-media-photo.click/login,malware_90.zip,Phishing Email
+carlos.dean@diy.com,Important: Your investment portfolio update.,https://diy.com/patient-portal,summary_49.xls,Legitimate Email
+rose.angel@books.com,"Dear Rose Angel, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_50.exe,Phishing Email
+mark.galvan@biology.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/login,malware_92.html,Phishing Email
+molly.wallace@art.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click,malware_82.vbs,Phishing Email
+rosie.johnson@onlinestore.com,New article: The future of AI in 2024.,https://onlinestore.com/portfolio/update,summary_69.pdf,Legitimate Email
+annie.bryant@music.com,"Dear Annie Bryant, your account has been compromised. Please verify your details immediately.",hxxp://tax-refund-gov.online,malware_83.html,Phishing Email
+willie.young@biology.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click,malware_49.exe,Phishing Email
+karen.sinclair@another.net,Meeting reminder: Project Alpha review at 2 PM today.,https://another.net/courses/cs101/assignments,report_69.xls,Legitimate Email
+maria.harris@news.com,Donate now to support our cause and help children.,https://news.com/sale,invoice_79.pdf,Legitimate Email
+bobbie.owens@manufacturing.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com,malware_46.vbs,Phishing Email
+neoma.haley@mathematics.com,"Professor haley, the assignment deadline is approaching.",https://mathematics.com/earthquake,document_6.xls,Legitimate Email
+samuel.christian@automotive.com,Your order has shipped! Track your package here.,https://automotive.com/updates,report_12.ppt,Legitimate Email
+regina.helwig@music.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com/login,malware_63.js,Phishing Email
+beverly.mchaney@techblog.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/verify,malware_5.html,Phishing Email
+john.pearson@logistics.com,Your medical records are now available online.,https://logistics.com/tracking/12345,report_13.ppt,Legitimate Email
+damian.bible@philosophy.com,Tax refund notification: You are eligible for a refund.,hxxps://tax-refund-gov.online/verify,malware_40.vbs,Phishing Email
+danielle.arellano@consulting.com,Your medical records are now available online.,https://consulting.com/articles/ai-2024,report_37.xls,Legitimate Email
+susan.elwell@news.com,Exclusive sale: 50% off all items this weekend!,https://news.com/sale,invoice_4.ppt,Legitimate Email
+theresa.butler@marketing.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/verify,malware_42.html,Phishing Email
+florence.weatherford@logistics.com,Breaking news: Major earthquake hits California.,https://logistics.com/courses/cs101/assignments,report_46.xls,Legitimate Email
+charles.rosales@music.com,Your order has shipped! Track your package here.,https://music.com/earthquake,invoice_55.csv,Legitimate Email
+robert.thai@music.com,Breaking news: Major earthquake hits California.,https://music.com/articles/ai-2024,invoice_71.txt,Legitimate Email
+joseph.kowalchuk@photography.com,"Professor kowalchuk, the assignment deadline is approaching.",https://photography.com/articles/ai-2024,invoice_1.docx,Legitimate Email
+linda.hanson@travel.com,"Dear Linda Hanson, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com/login,malware_13.exe,Phishing Email
+haley.harrison@chemistry.com,Your flight booking confirmation: [Booking ID].,https://chemistry.com/courses/cs101/assignments,document_2.txt,Legitimate Email
+gerald.chase@onlinestore.com,Your medical records are now available online.,https://onlinestore.com/articles/ai-2024,document_78.xls,Legitimate Email
+harold.roberts@social.media,Meeting reminder: Project Alpha review at 2 PM today.,https://social.media/patient-portal,invoice_63.ppt,Legitimate Email
+maggie.breton@movies.com,Meeting reminder: Project Alpha review at 2 PM today.,https://movies.com/donate,invoice_57.ppt,Legitimate Email
+edward.holland@music.com,Breaking news: Major earthquake hits California.,https://music.com/bookings/confirmation,invoice_70.csv,Legitimate Email
+diana.gatlin@diy.com,Exclusive sale: 50% off all items this weekend!,https://diy.com/articles/ai-2024,document_65.pdf,Legitimate Email
+james.martinez@example.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com/login,malware_33.exe,Phishing Email
+lynette.newton@telecom.com,Exclusive sale: 50% off all items this weekend!,https://telecom.com/portfolio/update,summary_2.docx,Legitimate Email
+doris.hubbard@politics.com,Someone has tagged you in a photo! See it now.,hxxp://bank-login-urgent.com,malware_50.vbs,Phishing Email
+eric.sinclair@personal.com,Breaking news: Major earthquake hits California.,https://personal.com/meetings/alpha-review,document_43.ppt,Legitimate Email
+carey.cain@sports.com,New article: The future of AI in 2024.,https://sports.com/articles/ai-2024,document_28.xls,Legitimate Email
+thelma.pressley@healthcare.org,Donate now to support our cause and help children.,https://healthcare.org/sale,summary_33.ppt,Legitimate Email
+nancy.ligon@gov.uk,"Professor ligon, the assignment deadline is approaching.",https://gov.uk/courses/cs101/assignments,summary_45.txt,Legitimate Email
+charles.totty@sports.com,Your order has shipped! Track your package here.,https://sports.com/updates,report_91.csv,Legitimate Email
+geneva.polston@social.media,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/login,malware_10.html,Phishing Email
+juan.carbajal@cooking.com,"Dear Juan Carbajal, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com,malware_88.vbs,Phishing Email
+gerald.arcangel@techblog.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com/login,malware_80.zip,Phishing Email
+iva.norman@mathematics.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/login,malware_8.vbs,Phishing Email
+john.murph@psychology.com,"Dear John Murph, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com,malware_82.scr,Phishing Email
+craig.mcneill@photography.com,Exclusive sale: 50% off all items this weekend!,https://photography.com/updates,invoice_87.csv,Legitimate Email
+jackie.couch@travel.com,Your medical records are now available online.,https://travel.com/patient-portal,invoice_35.pdf,Legitimate Email
+heriberto.johnson@psychology.com,Your flight booking confirmation: [Booking ID].,https://psychology.com/patient-portal,summary_44.xls,Legitimate Email
+derek.stephenson@fitness.com,"Dear Derek Stephenson, your account has been compromised. Please verify your details immediately.",hxxps://tax-refund-gov.online,malware_15.exe,Phishing Email
+harry.lemieux@onlinestore.com,"Dear Harry Lemieux, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/login,malware_24.vbs,Phishing Email
+roy.schoeneck@charity.org,Donate now to support our cause and help children.,https://charity.org/tracking/12345,report_12.docx,Legitimate Email
+tiffany.buckner@mathematics.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com,malware_80.js,Phishing Email
+ileana.burge@chemistry.com,"Dear Ileana Burge, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com,malware_18.zip,Phishing Email
+carmen.turner@biology.com,"Dear Carmen Turner, your account has been compromised. Please verify your details immediately.",hxxps://tax-refund-gov.online,malware_91.vbs,Phishing Email
+ashley.bradley@cooking.com,New article: The future of AI in 2024.,https://cooking.com/updates,report_93.csv,Legitimate Email
+linda.neil@another.net,Someone has tagged you in a photo! See it now.,hxxps://free-iphone-now.prize-claim.com/verify,malware_84.zip,Phishing Email
+gary.matos@astronomy.com,Meeting reminder: Project Alpha review at 2 PM today.,https://astronomy.com/articles/ai-2024,invoice_87.pdf,Legitimate Email
+donald.pineda@travel.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com,malware_35.exe,Phishing Email
+darryl.aeschliman@fitness.com,Donate now to support our cause and help children.,https://fitness.com/articles/ai-2024,summary_67.ppt,Legitimate Email
+marshall.rumph@games.com,"Dear Marshall Rumph, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com,malware_40.html,Phishing Email
+lillie.clemons@university.edu,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com/login,malware_76.zip,Phishing Email
+david.halcomb@geography.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://social-media-photo.click/verify,malware_57.exe,Phishing Email
+william.juarez@fashion.com,New article: The future of AI in 2024.,https://fashion.com/bookings/confirmation,invoice_67.ppt,Legitimate Email
+edward.dixon@social.media,Your medical records are now available online.,https://social.media/tracking/12345,invoice_86.csv,Legitimate Email
+susan.howard@automotive.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/verify,malware_89.zip,Phishing Email
+corey.clark@marketing.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/verify,malware_36.vbs,Phishing Email
+susie.rosa@software.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click/verify,malware_76.zip,Phishing Email
+james.mitchell@gardening.com,Someone has tagged you in a photo! See it now.,hxxp://social-media-photo.click,malware_30.js,Phishing Email
+alexander.roberson@fashion.com,Your flight booking confirmation: [Booking ID].,https://fashion.com/articles/ai-2024,invoice_84.ppt,Legitimate Email
+james.rosenstock@manufacturing.com,Your flight booking confirmation: [Booking ID].,https://manufacturing.com/donate,document_61.txt,Legitimate Email
+don.nolan@telecom.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online/verify,malware_48.exe,Phishing Email
+bobby.devore@personal.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://social-media-photo.click,malware_56.zip,Phishing Email
+dean.thompson@finance.co,Your flight booking confirmation: [Booking ID].,https://finance.co/bookings/confirmation,report_17.txt,Legitimate Email
+mary.lara@economics.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com/login,malware_49.vbs,Phishing Email
+francis.daniels@personal.com,"Professor daniels, the assignment deadline is approaching.",https://personal.com/articles/ai-2024,document_98.xls,Legitimate Email
+kayla.turner@diy.com,Someone has tagged you in a photo! See it now.,hxxp://tax-refund-gov.online,malware_86.html,Phishing Email
+wayne.flanders@geography.com,"Dear Wayne Flanders, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_34.scr,Phishing Email
+amanda.peterson@biology.com,Someone has tagged you in a photo! See it now.,hxxp://tax-refund-gov.online,malware_37.js,Phishing Email
+susan.tucker@social.media,Exclusive sale: 50% off all items this weekend!,https://social.media/earthquake,document_76.pdf,Legitimate Email
+troy.berry@pets.com,"Dear Troy Berry, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com,malware_29.html,Phishing Email
+jeremy.jones@automotive.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_54.exe,Phishing Email
+margaret.lett@pets.com,Breaking news: Major earthquake hits California.,https://pets.com/donate,summary_16.ppt,Legitimate Email
+rana.fouts@company.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click/verify,malware_84.vbs,Phishing Email
+kathleen.giacomini@news.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/login,malware_28.js,Phishing Email
+jerald.waldron@fashion.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://social-media-photo.click/verify,malware_29.scr,Phishing Email
+thomas.hollan@books.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://verify-account-now.secure-login.com/login,malware_77.zip,Phishing Email
+donald.coble@astronomy.com,Meeting reminder: Project Alpha review at 2 PM today.,https://astronomy.com/updates,document_3.csv,Legitimate Email
+adam.pastorin@fashion.com,Meeting reminder: Project Alpha review at 2 PM today.,https://fashion.com/tracking/12345,summary_50.xls,Legitimate Email
+ryan.dixon@retail.com,Exclusive sale: 50% off all items this weekend!,https://retail.com/donate,report_12.txt,Legitimate Email
+joshua.franklin@diy.com,Tax refund notification: You are eligible for a refund.,hxxp://bank-login-urgent.com,malware_7.exe,Phishing Email
+ruth.rocha@chemistry.com,Your order has shipped! Track your package here.,https://chemistry.com/articles/ai-2024,document_51.xls,Legitimate Email
+shameka.myers@chemistry.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://bank-login-urgent.com,malware_100.scr,Phishing Email
+danny.huynh@charity.org,"Professor huynh, the assignment deadline is approaching.",https://charity.org/updates,summary_13.xls,Legitimate Email
+bruce.larsen@marketing.com,Your medical records are now available online.,https://marketing.com/updates,report_42.docx,Legitimate Email
+edward.harrison@gov.uk,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_66.scr,Phishing Email
+bruce.weber@onlinestore.com,New article: The future of AI in 2024.,https://onlinestore.com/patient-portal,summary_91.docx,Legitimate Email
+drew.schleich@diy.com,Exclusive sale: 50% off all items this weekend!,https://diy.com/patient-portal,summary_99.xls,Legitimate Email
+joseph.blank@politics.com,Your medical records are now available online.,https://politics.com/patient-portal,invoice_2.pdf,Legitimate Email
+lewis.sayers@pets.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://verify-account-now.secure-login.com/verify,malware_99.scr,Phishing Email
+jeff.lowell@automotive.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com,malware_4.scr,Phishing Email
+robert.meyer@logistics.com,Breaking news: Major earthquake hits California.,https://logistics.com/donate,report_14.txt,Legitimate Email
+terri.gabrielson@psychology.com,"Professor gabrielson, the assignment deadline is approaching.",https://psychology.com/bookings/confirmation,summary_16.ppt,Legitimate Email
+lucy.richardson@consulting.com,Donate now to support our cause and help children.,https://consulting.com/portfolio/update,report_75.csv,Legitimate Email
+henry.winsor@gardening.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/login,malware_42.vbs,Phishing Email
+victor.smith@politics.com,Your medical records are now available online.,https://politics.com/courses/cs101/assignments,document_56.xls,Legitimate Email
+daniel.ealey@automotive.com,Donate now to support our cause and help children.,https://automotive.com/bookings/confirmation,invoice_49.txt,Legitimate Email
+minnie.kot@photography.com,"Professor kot, the assignment deadline is approaching.",https://photography.com/sale,invoice_9.xls,Legitimate Email
+linda.smith@photography.com,Breaking news: Major earthquake hits California.,https://photography.com/tracking/12345,document_11.pdf,Legitimate Email
+warren.seaney@automotive.com,Your flight booking confirmation: [Booking ID].,https://automotive.com/sale,invoice_61.xls,Legitimate Email
+rudy.callen@manufacturing.com,Your order has shipped! Track your package here.,https://manufacturing.com/meetings/alpha-review,report_18.csv,Legitimate Email
+jacqueline.bonner@company.com,Tax refund notification: You are eligible for a refund.,hxxps://tax-refund-gov.online/login,malware_96.scr,Phishing Email
+george.wheelis@example.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online,malware_2.zip,Phishing Email
+milagros.brown@onlinestore.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://verify-account-now.secure-login.com,malware_99.zip,Phishing Email
+mariah.hupper@techblog.com,Meeting reminder: Project Alpha review at 2 PM today.,https://techblog.com/meetings/alpha-review,summary_67.ppt,Legitimate Email
+woodrow.caulder@games.com,Your order has shipped! Track your package here.,https://games.com/portfolio/update,invoice_91.ppt,Legitimate Email
+michelle.cianciolo@photography.com,Breaking news: Major earthquake hits California.,https://photography.com/meetings/alpha-review,document_30.ppt,Legitimate Email
+alvina.schultz@art.com,"Dear Alvina Schultz, your account has been compromised. Please verify your details immediately.",hxxps://social-media-photo.click,malware_84.scr,Phishing Email
+christina.park@automotive.com,Someone has tagged you in a photo! See it now.,hxxp://free-iphone-now.prize-claim.com,malware_1.zip,Phishing Email
+elda.watson@restaurant.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/verify,malware_94.vbs,Phishing Email
+catherine.spaulding@telecom.com,New article: The future of AI in 2024.,https://telecom.com/tracking/12345,report_45.csv,Legitimate Email
+curtis.estes@language.com,Exclusive sale: 50% off all items this weekend!,https://language.com/donate,report_94.ppt,Legitimate Email
+james.osorio@telecom.com,Someone has tagged you in a photo! See it now.,hxxp://free-iphone-now.prize-claim.com,malware_15.scr,Phishing Email
+gary.parker@sports.com,Meeting reminder: Project Alpha review at 2 PM today.,https://sports.com/patient-portal,report_100.xls,Legitimate Email
+monique.figueroa@automotive.com,"Dear Monique Figueroa, your account has been compromised. Please verify your details immediately.",hxxps://social-media-photo.click,malware_71.vbs,Phishing Email
+william.caro@healthcare.org,Your order has shipped! Track your package here.,https://healthcare.org/sale,summary_44.csv,Legitimate Email
+kelly.low@mathematics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://tax-refund-gov.online,malware_81.js,Phishing Email
+shaun.lamantia@logistics.com,Your medical records are now available online.,https://logistics.com/earthquake,invoice_82.txt,Legitimate Email
+terry.hurley@photography.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online,malware_71.zip,Phishing Email
+alberta.worley@photography.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com,malware_19.scr,Phishing Email
+sue.whitecotton@techblog.com,Tax refund notification: You are eligible for a refund.,hxxp://bank-login-urgent.com,malware_93.vbs,Phishing Email
+daron.erwin@company.com,Your flight booking confirmation: [Booking ID].,https://company.com/courses/cs101/assignments,summary_4.ppt,Legitimate Email
+georgette.lemoyne@travel.com,Donate now to support our cause and help children.,https://travel.com/articles/ai-2024,summary_3.ppt,Legitimate Email
+shelton.stinnett@social.media,Exclusive sale: 50% off all items this weekend!,https://social.media/patient-portal,document_2.xls,Legitimate Email
+frederick.freeman@physics.com,Tax refund notification: You are eligible for a refund.,hxxp://bank-login-urgent.com,malware_43.zip,Phishing Email
+patricia.joseph@telecom.com,Someone has tagged you in a photo! See it now.,hxxps://free-iphone-now.prize-claim.com/login,malware_58.exe,Phishing Email
+linda.miller@economics.com,Meeting reminder: Project Alpha review at 2 PM today.,https://economics.com/tracking/12345,invoice_71.pdf,Legitimate Email
+donald.ray@photography.com,Tax refund notification: You are eligible for a refund.,hxxps://tax-refund-gov.online/login,malware_17.html,Phishing Email
+joshua.ricketts@pets.com,"Dear Joshua Ricketts, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_9.scr,Phishing Email
+kim.worton@news.com,Important: Your investment portfolio update.,https://news.com/updates,summary_91.txt,Legitimate Email
+luz.contreras@science.com,Your order has shipped! Track your package here.,https://science.com/patient-portal,invoice_63.xls,Legitimate Email
+andrea.lewis@art.com,Donate now to support our cause and help children.,https://art.com/articles/ai-2024,report_52.docx,Legitimate Email
+daniel.houston@psychology.com,New article: The future of AI in 2024.,https://psychology.com/patient-portal,report_4.docx,Legitimate Email
+barbara.carden@software.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com/verify,malware_22.vbs,Phishing Email
+rosalie.hill@geography.com,"Professor hill, the assignment deadline is approaching.",https://geography.com/articles/ai-2024,invoice_64.xls,Legitimate Email
+susie.blackwood@techblog.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com,malware_34.scr,Phishing Email
+joseph.riley@geography.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online/login,malware_58.scr,Phishing Email
+chad.jarman@astronomy.com,New article: The future of AI in 2024.,https://astronomy.com/tracking/12345,document_25.ppt,Legitimate Email
+landon.lake@education.com,Donate now to support our cause and help children.,https://education.com/articles/ai-2024,summary_27.csv,Legitimate Email
+mary.bullock@realestate.com,Your flight booking confirmation: [Booking ID].,https://realestate.com/courses/cs101/assignments,report_88.pdf,Legitimate Email
+john.gallagher@charity.org,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://verify-account-now.secure-login.com/verify,malware_22.exe,Phishing Email
+bruce.dean@fitness.com,Exclusive sale: 50% off all items this weekend!,https://fitness.com/donate,summary_40.txt,Legitimate Email
+conrad.satchell@company.com,"Professor satchell, the assignment deadline is approaching.",https://company.com/bookings/confirmation,summary_53.pdf,Legitimate Email
+dora.west@books.com,New article: The future of AI in 2024.,https://books.com/sale,invoice_69.txt,Legitimate Email
+patrick.kovach@chemistry.com,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_48.html,Phishing Email
+jerrold.tabak@manufacturing.com,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_64.vbs,Phishing Email
+frederick.dixon@education.com,Your medical records are now available online.,https://education.com/patient-portal,summary_100.xls,Legitimate Email
+jay.coachman@physics.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com/verify,malware_59.zip,Phishing Email
+prince.becton@onlinestore.com,Exclusive sale: 50% off all items this weekend!,https://onlinestore.com/patient-portal,report_60.ppt,Legitimate Email
+dorothy.wilenkin@consulting.com,Breaking news: Major earthquake hits California.,https://consulting.com/articles/ai-2024,report_57.csv,Legitimate Email
+jennifer.lucas@energy.com,"Professor lucas, the assignment deadline is approaching.",https://energy.com/donate,document_97.csv,Legitimate Email
+chester.davis@geography.com,New article: The future of AI in 2024.,https://geography.com/tracking/12345,summary_19.xls,Legitimate Email
+minnie.lau@company.com,Important: Your investment portfolio update.,https://company.com/earthquake,report_8.ppt,Legitimate Email
+don.gill@pets.com,Donate now to support our cause and help children.,https://pets.com/earthquake,report_35.ppt,Legitimate Email
+jewel.dent@education.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://free-iphone-now.prize-claim.com,malware_16.html,Phishing Email
+luke.bible@pets.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/login,malware_72.vbs,Phishing Email
+christina.farnsworth@marketing.com,Exclusive sale: 50% off all items this weekend!,https://marketing.com/donate,invoice_95.pdf,Legitimate Email
+anthony.fischer@marketing.com,New article: The future of AI in 2024.,https://marketing.com/patient-portal,document_81.txt,Legitimate Email
+cruz.williams@gardening.com,Your medical records are now available online.,https://gardening.com/patient-portal,summary_31.xls,Legitimate Email
+kimberly.swinson@books.com,Exclusive sale: 50% off all items this weekend!,https://books.com/updates,summary_91.ppt,Legitimate Email
+jesse.haskell@biology.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://verify-account-now.secure-login.com,malware_20.js,Phishing Email
+scot.holmes@politics.com,Tax refund notification: You are eligible for a refund.,hxxp://bank-login-urgent.com,malware_41.html,Phishing Email
+carl.calderon@books.com,Your order has shipped! Track your package here.,https://books.com/portfolio/update,invoice_97.csv,Legitimate Email
+joanne.lawson@fashion.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com,malware_61.js,Phishing Email
+brian.jines@education.com,"Dear Brian Jines, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_7.html,Phishing Email
+candi.hagy@cooking.com,Your order has shipped! Track your package here.,https://cooking.com/bookings/confirmation,report_41.docx,Legitimate Email
+lindsey.harr@philosophy.com,Breaking news: Major earthquake hits California.,https://philosophy.com/articles/ai-2024,document_68.ppt,Legitimate Email
+kathleen.breeden@language.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com,malware_19.scr,Phishing Email
+rose.foster@retail.com,New article: The future of AI in 2024.,https://retail.com/portfolio/update,document_54.ppt,Legitimate Email
+juan.oneil@sports.com,Your medical records are now available online.,https://sports.com/donate,document_2.ppt,Legitimate Email
+michael.barron@fashion.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://verify-account-now.secure-login.com,malware_6.zip,Phishing Email
+yolanda.cobb@software.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/login,malware_27.js,Phishing Email
+donnie.flint@news.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/verify,malware_6.scr,Phishing Email
+sierra.salas@university.edu,Donate now to support our cause and help children.,https://university.edu/meetings/alpha-review,report_78.csv,Legitimate Email
+michael.granata@gardening.com,Your flight booking confirmation: [Booking ID].,https://gardening.com/bookings/confirmation,invoice_75.csv,Legitimate Email
+truman.copeland@software.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/verify,malware_61.exe,Phishing Email
+nicole.bushman@automotive.com,Breaking news: Major earthquake hits California.,https://automotive.com/earthquake,summary_36.pdf,Legitimate Email
+joseph.kunst@games.com,"Professor kunst, the assignment deadline is approaching.",https://games.com/updates,invoice_75.csv,Legitimate Email
+michael.vanhandel@psychology.com,"Dear Michael Vanhandel, your account has been compromised. Please verify your details immediately.",hxxp://free-iphone-now.prize-claim.com,malware_18.zip,Phishing Email
+joyce.fowler@movies.com,Your flight booking confirmation: [Booking ID].,https://movies.com/tracking/12345,summary_46.docx,Legitimate Email
+martin.putnam@history.com,Meeting reminder: Project Alpha review at 2 PM today.,https://history.com/bookings/confirmation,report_75.docx,Legitimate Email
+tyler.kelley@physics.com,Your medical records are now available online.,https://physics.com/meetings/alpha-review,summary_53.ppt,Legitimate Email
+carla.brown@physics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com,malware_3.html,Phishing Email
+cleotilde.watts@logistics.com,New article: The future of AI in 2024.,https://logistics.com/bookings/confirmation,document_58.xls,Legitimate Email
+annie.sutton@techblog.com,Exclusive sale: 50% off all items this weekend!,https://techblog.com/donate,invoice_58.docx,Legitimate Email
+jeffrey.macri@language.com,Your order has shipped! Track your package here.,https://language.com/sale,report_15.pdf,Legitimate Email
+denise.kendell@retail.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_85.scr,Phishing Email
+james.howard@games.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://tax-refund-gov.online,malware_78.scr,Phishing Email
+david.matthews@healthcare.org,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://tax-refund-gov.online,malware_84.scr,Phishing Email
+susan.ruhl@science.com,Your medical records are now available online.,https://science.com/portfolio/update,summary_47.txt,Legitimate Email
+neil.burgess@physics.com,"Professor burgess, the assignment deadline is approaching.",https://physics.com/bookings/confirmation,summary_65.xls,Legitimate Email
+randy.wright@software.com,Exclusive sale: 50% off all items this weekend!,https://software.com/donate,document_70.csv,Legitimate Email
+julie.browning@university.edu,Important: Your investment portfolio update.,https://university.edu/courses/cs101/assignments,summary_89.docx,Legitimate Email
+hugh.carson@realestate.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online/verify,malware_29.html,Phishing Email
+william.staggs@news.com,Your flight booking confirmation: [Booking ID].,https://news.com/meetings/alpha-review,summary_62.ppt,Legitimate Email
+sarah.wisniewski@history.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com/verify,malware_63.zip,Phishing Email
+alex.boulos@logistics.com,Breaking news: Major earthquake hits California.,https://logistics.com/articles/ai-2024,document_85.pdf,Legitimate Email
+beth.hailey@personal.com,Breaking news: Major earthquake hits California.,https://personal.com/patient-portal,invoice_79.xls,Legitimate Email
+matthew.yoshida@geography.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com/verify,malware_45.js,Phishing Email
+terry.grainger@university.edu,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/verify,malware_89.zip,Phishing Email
+kenneth.mcclain@travel.com,Your flight booking confirmation: [Booking ID].,https://travel.com/sale,summary_19.xls,Legitimate Email
+albert.allen@retail.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online/login,malware_94.vbs,Phishing Email
+jimmy.fink@example.com,Exclusive sale: 50% off all items this weekend!,https://example.com/updates,invoice_10.xls,Legitimate Email
+danielle.armas@another.net,Exclusive sale: 50% off all items this weekend!,https://another.net/courses/cs101/assignments,summary_19.docx,Legitimate Email
+brian.kepley@games.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/verify,malware_14.html,Phishing Email
+daniel.jones@sports.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/verify,malware_11.vbs,Phishing Email
+christine.franks@realestate.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/login,malware_68.exe,Phishing Email
+victor.smith@finance.co,"Dear Victor Smith, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com/verify,malware_69.exe,Phishing Email
+donald.bravo@history.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online,malware_55.vbs,Phishing Email
+david.bruce@books.com,Tax refund notification: You are eligible for a refund.,hxxps://tax-refund-gov.online/login,malware_72.zip,Phishing Email
+kenneth.lowery@books.com,"Dear Kenneth Lowery, your account has been compromised. Please verify your details immediately.",hxxp://social-media-photo.click,malware_95.js,Phishing Email
+scott.loder@pets.com,Your flight booking confirmation: [Booking ID].,https://pets.com/donate,document_41.docx,Legitimate Email
+june.jones@music.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/verify,malware_91.vbs,Phishing Email
+mary.crothers@travel.com,Someone has tagged you in a photo! See it now.,hxxps://free-iphone-now.prize-claim.com/verify,malware_71.scr,Phishing Email
+jessica.coleman@geography.com,Important: Your investment portfolio update.,https://geography.com/articles/ai-2024,document_40.txt,Legitimate Email
+marguerite.imbert@restaurant.com,Breaking news: Major earthquake hits California.,https://restaurant.com/tracking/12345,report_8.ppt,Legitimate Email
+douglas.bitto@music.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com/verify,malware_29.scr,Phishing Email
+rachel.blankenship@economics.com,Your order has shipped! Track your package here.,https://economics.com/donate,report_83.txt,Legitimate Email
+beatris.christopher@consulting.com,Donate now to support our cause and help children.,https://consulting.com/meetings/alpha-review,document_99.docx,Legitimate Email
+brett.powell@geography.com,Exclusive sale: 50% off all items this weekend!,https://geography.com/sale,summary_62.docx,Legitimate Email
+pat.wooten@movies.com,Your medical records are now available online.,https://movies.com/articles/ai-2024,document_80.xls,Legitimate Email
+lamar.porada@education.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/verify,malware_83.scr,Phishing Email
+millard.roe@university.edu,New article: The future of AI in 2024.,https://university.edu/sale,report_73.csv,Legitimate Email
+christian.graves@travel.com,Exclusive sale: 50% off all items this weekend!,https://travel.com/meetings/alpha-review,report_13.docx,Legitimate Email
+tina.mcdermott@movies.com,Someone has tagged you in a photo! See it now.,hxxp://social-media-photo.click,malware_14.scr,Phishing Email
+arthur.bixler@politics.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/login,malware_87.vbs,Phishing Email
+george.mayes@economics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://tax-refund-gov.online,malware_26.html,Phishing Email
+leo.buford@games.com,Tax refund notification: You are eligible for a refund.,hxxps://tax-refund-gov.online/login,malware_3.scr,Phishing Email
+gertrude.mosquera@politics.com,Your order has shipped! Track your package here.,https://politics.com/earthquake,invoice_17.docx,Legitimate Email
+robert.horace@marketing.com,"Dear Robert Horace, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com/login,malware_97.scr,Phishing Email
+harold.pidro@pets.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/verify,malware_71.exe,Phishing Email
+lillie.sparks@astronomy.com,Donate now to support our cause and help children.,https://astronomy.com/earthquake,invoice_30.csv,Legitimate Email
+herbert.wolf@language.com,"Dear Herbert Wolf, your account has been compromised. Please verify your details immediately.",hxxps://tax-refund-gov.online,malware_91.vbs,Phishing Email
+vanessa.estrada@mathematics.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com,malware_74.exe,Phishing Email
+martha.rice@sports.com,Meeting reminder: Project Alpha review at 2 PM today.,https://sports.com/patient-portal,report_55.xls,Legitimate Email
+willie.cady@philosophy.com,Meeting reminder: Project Alpha review at 2 PM today.,https://philosophy.com/courses/cs101/assignments,report_72.txt,Legitimate Email
+valerie.hemrich@politics.com,Donate now to support our cause and help children.,https://politics.com/patient-portal,summary_77.xls,Legitimate Email
+maryjo.weidman@social.media,Donate now to support our cause and help children.,https://social.media/bookings/confirmation,invoice_6.docx,Legitimate Email
+daniel.capone@chemistry.com,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_49.zip,Phishing Email
+abigail.suhr@psychology.com,Your order has shipped! Track your package here.,https://psychology.com/updates,invoice_55.ppt,Legitimate Email
+jennifer.gibson@realestate.com,Your medical records are now available online.,https://realestate.com/meetings/alpha-review,document_59.txt,Legitimate Email
+william.jones@energy.com,"Dear William Jones, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com/login,malware_89.zip,Phishing Email
+charles.seelbach@marketing.com,Meeting reminder: Project Alpha review at 2 PM today.,https://marketing.com/sale,report_8.ppt,Legitimate Email
+thomas.rodriguez@education.com,New article: The future of AI in 2024.,https://education.com/courses/cs101/assignments,summary_86.pdf,Legitimate Email
+joseph.mckoy@social.media,Meeting reminder: Project Alpha review at 2 PM today.,https://social.media/courses/cs101/assignments,invoice_53.docx,Legitimate Email
+daniel.powers@politics.com,Someone has tagged you in a photo! See it now.,hxxps://tax-refund-gov.online/verify,malware_69.zip,Phishing Email
+judy.brubaker@onlinestore.com,"Dear Judy Brubaker, your account has been compromised. Please verify your details immediately.",hxxp://tax-refund-gov.online,malware_95.html,Phishing Email
+winifred.oh@marketing.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/login,malware_71.js,Phishing Email
+roy.hollins@sports.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/verify,malware_56.vbs,Phishing Email
+george.house@healthcare.org,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click/verify,malware_71.vbs,Phishing Email
+signe.yount@geography.com,"Professor yount, the assignment deadline is approaching.",https://geography.com/articles/ai-2024,invoice_10.docx,Legitimate Email
+guy.stolte@psychology.com,Breaking news: Major earthquake hits California.,https://psychology.com/articles/ai-2024,document_75.csv,Legitimate Email
+inell.voss@onlinestore.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com/verify,malware_2.html,Phishing Email
+kevin.jackson@company.com,Tax refund notification: You are eligible for a refund.,hxxp://free-iphone-now.prize-claim.com,malware_23.zip,Phishing Email
+john.bible@university.edu,Exclusive sale: 50% off all items this weekend!,https://university.edu/bookings/confirmation,report_84.txt,Legitimate Email
+tracy.gill@company.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://tax-refund-gov.online,malware_100.vbs,Phishing Email
+addie.watson@gardening.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://social-media-photo.click,malware_44.exe,Phishing Email
+maureen.brown@pets.com,Meeting reminder: Project Alpha review at 2 PM today.,https://pets.com/sale,document_78.xls,Legitimate Email
+michael.seeman@software.com,Someone has tagged you in a photo! See it now.,hxxp://verify-account-now.secure-login.com,malware_33.html,Phishing Email
+joseph.cunningham@astronomy.com,"Professor cunningham, the assignment deadline is approaching.",https://astronomy.com/portfolio/update,document_84.csv,Legitimate Email
+jacob.henderson@energy.com,Your flight booking confirmation: [Booking ID].,https://energy.com/articles/ai-2024,summary_56.pdf,Legitimate Email
+clarence.mcelhenney@sports.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online,malware_45.html,Phishing Email
+allie.floyd@books.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://tax-refund-gov.online,malware_51.html,Phishing Email
+theodore.washington@university.edu,"Dear Theodore Washington, your account has been compromised. Please verify your details immediately.",hxxp://social-media-photo.click,malware_45.zip,Phishing Email
+wanda.lesky@chemistry.com,"Professor lesky, the assignment deadline is approaching.",https://chemistry.com/bookings/confirmation,invoice_44.ppt,Legitimate Email
+jean.nunez@company.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online,malware_7.js,Phishing Email
+alba.borgia@physics.com,Donate now to support our cause and help children.,https://physics.com/tracking/12345,report_98.csv,Legitimate Email
+joyce.bowman@social.media,Exclusive sale: 50% off all items this weekend!,https://social.media/portfolio/update,report_79.xls,Legitimate Email
+larry.nelson@gardening.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://social-media-photo.click,malware_10.html,Phishing Email
+barbara.glessner@books.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://free-iphone-now.prize-claim.com,malware_86.exe,Phishing Email
+elizabeth.scott@finance.co,"Dear Elizabeth Scott, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/login,malware_33.html,Phishing Email
+john.siddoway@consulting.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/login,malware_98.scr,Phishing Email
+raymond.charney@music.com,Tax refund notification: You are eligible for a refund.,hxxps://bank-login-urgent.com/verify,malware_100.vbs,Phishing Email
+danny.thomas@retail.com,Donate now to support our cause and help children.,https://retail.com/meetings/alpha-review,summary_41.csv,Legitimate Email
+lisa.omura@telecom.com,Exclusive sale: 50% off all items this weekend!,https://telecom.com/courses/cs101/assignments,document_25.csv,Legitimate Email
+tim.scarborough@language.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/login,malware_92.vbs,Phishing Email
+bonnie.emanuele@sports.com,New article: The future of AI in 2024.,https://sports.com/donate,summary_79.txt,Legitimate Email
+joseph.westover@books.com,Donate now to support our cause and help children.,https://books.com/bookings/confirmation,invoice_59.ppt,Legitimate Email
+michael.vaden@marketing.com,Your order has shipped! Track your package here.,https://marketing.com/portfolio/update,summary_82.csv,Legitimate Email
+astrid.knight@fashion.com,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_64.zip,Phishing Email
+michael.chambless@economics.com,Your medical records are now available online.,https://economics.com/earthquake,report_47.txt,Legitimate Email
+david.stilwell@philosophy.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/verify,malware_77.zip,Phishing Email
+ruth.abreu@realestate.com,Breaking news: Major earthquake hits California.,https://realestate.com/sale,report_35.pdf,Legitimate Email
+edith.morquecho@books.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online/verify,malware_59.exe,Phishing Email
+perry.booher@fashion.com,Your order has shipped! Track your package here.,https://fashion.com/sale,summary_1.xls,Legitimate Email
+florence.mcnair@gov.uk,"Professor mcnair, the assignment deadline is approaching.",https://gov.uk/tracking/12345,summary_15.xls,Legitimate Email
+james.mcdonald@marketing.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com,malware_35.vbs,Phishing Email
+eula.pagel@logistics.com,Tax refund notification: You are eligible for a refund.,hxxp://bank-login-urgent.com,malware_49.zip,Phishing Email
+anthony.sterling@history.com,Tax refund notification: You are eligible for a refund.,hxxp://free-iphone-now.prize-claim.com,malware_42.js,Phishing Email
+antonia.hyde@manufacturing.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com/verify,malware_6.html,Phishing Email
+jenny.henry@history.com,Donate now to support our cause and help children.,https://history.com/tracking/12345,report_44.docx,Legitimate Email
+elizabeth.gilmore@fashion.com,"Professor gilmore, the assignment deadline is approaching.",https://fashion.com/bookings/confirmation,report_100.csv,Legitimate Email
+margaret.howard@company.com,Important: Your investment portfolio update.,https://company.com/donate,invoice_76.docx,Legitimate Email
+dorothy.burns@fashion.com,Donate now to support our cause and help children.,https://fashion.com/earthquake,document_11.docx,Legitimate Email
+daniel.bowers@books.com,"Professor bowers, the assignment deadline is approaching.",https://books.com/portfolio/update,invoice_70.txt,Legitimate Email
+justin.engel@restaurant.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://free-iphone-now.prize-claim.com/login,malware_45.vbs,Phishing Email
+sandra.ross@photography.com,Donate now to support our cause and help children.,https://photography.com/portfolio/update,invoice_56.txt,Legitimate Email
+rosa.mcfarland@restaurant.com,Donate now to support our cause and help children.,https://restaurant.com/donate,document_67.ppt,Legitimate Email
+norma.strother@economics.com,Meeting reminder: Project Alpha review at 2 PM today.,https://economics.com/updates,report_25.xls,Legitimate Email
+juanita.fava@telecom.com,"Dear Juanita Fava, your account has been compromised. Please verify your details immediately.",hxxp://bank-login-urgent.com,malware_50.scr,Phishing Email
+robert.allen@art.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com/login,malware_21.vbs,Phishing Email
+gabriel.rabello@education.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com/login,malware_58.vbs,Phishing Email
+debra.salas@education.com,Your order has shipped! Track your package here.,https://education.com/courses/cs101/assignments,document_7.csv,Legitimate Email
+wilma.campbell@travel.com,Someone has tagged you in a photo! See it now.,hxxps://free-iphone-now.prize-claim.com,malware_41.scr,Phishing Email
+francisco.shelton@healthcare.org,Your flight booking confirmation: [Booking ID].,https://healthcare.org/bookings/confirmation,document_1.ppt,Legitimate Email
+rhonda.morales@realestate.com,Important: Your investment portfolio update.,https://realestate.com/tracking/12345,document_41.txt,Legitimate Email
+brian.troxell@realestate.com,Breaking news: Major earthquake hits California.,https://realestate.com/portfolio/update,document_25.docx,Legitimate Email
+kerry.haynes@finance.co,"Dear Kerry Haynes, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com/verify,malware_86.scr,Phishing Email
+carolyn.greenwood@university.edu,Your flight booking confirmation: [Booking ID].,https://university.edu/earthquake,report_76.pdf,Legitimate Email
+amanda.smith@science.com,Meeting reminder: Project Alpha review at 2 PM today.,https://science.com/earthquake,report_37.txt,Legitimate Email
+louise.simpson@sports.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://social-media-photo.click/verify,malware_51.html,Phishing Email
+andy.bower@mathematics.com,Exclusive sale: 50% off all items this weekend!,https://mathematics.com/articles/ai-2024,document_49.txt,Legitimate Email
+valerie.fox@charity.org,Your flight booking confirmation: [Booking ID].,https://charity.org/sale,invoice_70.xls,Legitimate Email
+mitchell.martinez@psychology.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com,malware_44.vbs,Phishing Email
+mary.peters@education.com,"Professor peters, the assignment deadline is approaching.",https://education.com/courses/cs101/assignments,summary_29.pdf,Legitimate Email
+rita.gerber@games.com,Exclusive sale: 50% off all items this weekend!,https://games.com/meetings/alpha-review,document_86.txt,Legitimate Email
+edward.hershberger@books.com,Exclusive sale: 50% off all items this weekend!,https://books.com/articles/ai-2024,invoice_2.pdf,Legitimate Email
+heather.pennington@gov.uk,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click/login,malware_100.scr,Phishing Email
+allie.driver@photography.com,Your order has shipped! Track your package here.,https://photography.com/tracking/12345,document_49.docx,Legitimate Email
+cecelia.thompson@mathematics.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click,malware_19.scr,Phishing Email
+mary.rico@books.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://tax-refund-gov.online,malware_29.exe,Phishing Email
+sarah.williams@physics.com,Someone has tagged you in a photo! See it now.,hxxp://bank-login-urgent.com,malware_1.scr,Phishing Email
+jeremy.stump@another.net,"Dear Jeremy Stump, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/login,malware_64.exe,Phishing Email
+donald.symonds@photography.com,Your flight booking confirmation: [Booking ID].,https://photography.com/bookings/confirmation,document_43.ppt,Legitimate Email
+patricia.cowman@books.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com,malware_91.zip,Phishing Email
+jonathan.barnard@chemistry.com,Someone has tagged you in a photo! See it now.,hxxps://free-iphone-now.prize-claim.com,malware_32.zip,Phishing Email
+travis.chronister@news.com,"Professor chronister, the assignment deadline is approaching.",https://news.com/meetings/alpha-review,document_100.txt,Legitimate Email
+marla.ruminski@music.com,Breaking news: Major earthquake hits California.,https://music.com/bookings/confirmation,report_78.ppt,Legitimate Email
+gary.finwall@cooking.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com/verify,malware_61.exe,Phishing Email
+elsie.stevens@university.edu,Exclusive sale: 50% off all items this weekend!,https://university.edu/meetings/alpha-review,report_51.pdf,Legitimate Email
+john.patterson@physics.com,New article: The future of AI in 2024.,https://physics.com/articles/ai-2024,summary_55.xls,Legitimate Email
+lester.hoffmann@politics.com,"Professor hoffmann, the assignment deadline is approaching.",https://politics.com/meetings/alpha-review,summary_52.docx,Legitimate Email
+anthony.morales@fitness.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com/verify,malware_74.exe,Phishing Email
+tyler.hooten@travel.com,Tax refund notification: You are eligible for a refund.,hxxp://verify-account-now.secure-login.com,malware_20.exe,Phishing Email
+abel.baker@onlinestore.com,Tax refund notification: You are eligible for a refund.,hxxps://verify-account-now.secure-login.com/login,malware_91.vbs,Phishing Email
+lori.giddings@logistics.com,Exclusive sale: 50% off all items this weekend!,https://logistics.com/courses/cs101/assignments,summary_6.docx,Legitimate Email
+frederick.grant@energy.com,Exclusive sale: 50% off all items this weekend!,https://energy.com/meetings/alpha-review,invoice_9.txt,Legitimate Email
+otis.cowan@biology.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click,malware_33.html,Phishing Email
+david.richardson@company.com,"Dear David Richardson, your account has been compromised. Please verify your details immediately.",hxxps://tax-refund-gov.online,malware_44.exe,Phishing Email
+sally.sherman@psychology.com,Your medical records are now available online.,https://psychology.com/articles/ai-2024,document_57.txt,Legitimate Email
+martha.mcdonough@consulting.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://verify-account-now.secure-login.com,malware_9.html,Phishing Email
+robert.hill@astronomy.com,"Dear Robert Hill, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com/verify,malware_96.js,Phishing Email
+sarah.anderson@pets.com,Exclusive sale: 50% off all items this weekend!,https://pets.com/articles/ai-2024,document_34.txt,Legitimate Email
+richard.hanson@automotive.com,Meeting reminder: Project Alpha review at 2 PM today.,https://automotive.com/portfolio/update,report_19.ppt,Legitimate Email
+rodney.stiver@fashion.com,"Professor stiver, the assignment deadline is approaching.",https://fashion.com/tracking/12345,invoice_30.txt,Legitimate Email
+joyce.rhoads@onlinestore.com,Someone has tagged you in a photo! See it now.,hxxps://verify-account-now.secure-login.com/login,malware_49.js,Phishing Email
+samuel.frey@cooking.com,Your flight booking confirmation: [Booking ID].,https://cooking.com/earthquake,report_29.txt,Legitimate Email
+christopher.baptiste@fashion.com,"Dear Christopher Baptiste, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com,malware_38.html,Phishing Email
+james.rector@manufacturing.com,Your medical records are now available online.,https://manufacturing.com/bookings/confirmation,summary_59.xls,Legitimate Email
+vera.johnson@psychology.com,Someone has tagged you in a photo! See it now.,hxxp://tax-refund-gov.online,malware_87.scr,Phishing Email
+morris.basel@marketing.com,Donate now to support our cause and help children.,https://marketing.com/updates,invoice_79.ppt,Legitimate Email
+jeremy.pacheco@personal.com,Someone has tagged you in a photo! See it now.,hxxps://bank-login-urgent.com,malware_57.scr,Phishing Email
+martha.braswell@onlinestore.com,Donate now to support our cause and help children.,https://onlinestore.com/donate,document_2.txt,Legitimate Email
+nicole.matley@history.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://free-iphone-now.prize-claim.com/verify,malware_48.html,Phishing Email
+marquita.hendricks@restaurant.com,Exclusive sale: 50% off all items this weekend!,https://restaurant.com/tracking/12345,report_51.csv,Legitimate Email
+sandra.williams@politics.com,Donate now to support our cause and help children.,https://politics.com/bookings/confirmation,document_63.csv,Legitimate Email
+veronica.butts@science.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://social-media-photo.click/login,malware_66.scr,Phishing Email
+david.grimes@biology.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://social-media-photo.click/login,malware_97.html,Phishing Email
+victor.nelson@university.edu,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click/login,malware_100.zip,Phishing Email
+thomas.vaugh@news.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://verify-account-now.secure-login.com,malware_58.html,Phishing Email
+virginia.turner@education.com,Important: Your investment portfolio update.,https://education.com/updates,report_61.docx,Legitimate Email
+james.quiroz@company.com,"Dear James Quiroz, your account has been compromised. Please verify your details immediately.",hxxps://verify-account-now.secure-login.com,malware_25.scr,Phishing Email
+dana.henton@music.com,Your order has shipped! Track your package here.,https://music.com/portfolio/update,document_25.xls,Legitimate Email
+juanita.burke@healthcare.org,Your order has shipped! Track your package here.,https://healthcare.org/portfolio/update,invoice_54.csv,Legitimate Email
+richard.mcmanus@pets.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxps://bank-login-urgent.com,malware_77.vbs,Phishing Email
+michael.kirkpatrick@language.com,Someone has tagged you in a photo! See it now.,hxxps://social-media-photo.click/login,malware_3.exe,Phishing Email
+chris.shipman@diy.com,"Professor shipman, the assignment deadline is approaching.",https://diy.com/tracking/12345,document_80.xls,Legitimate Email
+amber.silva@travel.com,Congratulations! You've won a free iPhone! Click here to claim your prize.,hxxp://free-iphone-now.prize-claim.com,malware_29.exe,Phishing Email
+kenneth.wilson@diy.com,"Dear Kenneth Wilson, your account has been compromised. Please verify your details immediately.",hxxp://bank-login-urgent.com,malware_62.html,Phishing Email
+ernest.jones@chemistry.com,Your medical records are now available online.,https://chemistry.com/courses/cs101/assignments,report_61.ppt,Legitimate Email
+virginia.lewandowski@realestate.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://bank-login-urgent.com/verify,malware_69.exe,Phishing Email
+donetta.sanders@healthcare.org,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxps://tax-refund-gov.online/login,malware_37.html,Phishing Email
+horace.poquette@fitness.com,Your flight booking confirmation: [Booking ID].,https://fitness.com/courses/cs101/assignments,invoice_18.ppt,Legitimate Email
+june.rivera@photography.com,"Dear June Rivera, your account has been compromised. Please verify your details immediately.",hxxps://bank-login-urgent.com/verify,malware_31.zip,Phishing Email
+tom.thixton@politics.com,Your order has shipped! Track your package here.,https://politics.com/earthquake,summary_19.xls,Legitimate Email
+carol.carter@manufacturing.com,New article: The future of AI in 2024.,https://manufacturing.com/sale,invoice_13.docx,Legitimate Email
+margaret.sloan@philosophy.com,Urgent: Your bank account has been suspended. Please log in to restore access.,hxxp://social-media-photo.click,malware_68.html,Phishing Email
+melissa.leith@charity.org,New article: The future of AI in 2024.,https://charity.org/updates,invoice_19.txt,Legitimate Email
+martha.keegan@movies.com,New article: The future of AI in 2024.,https://movies.com/tracking/12345,invoice_42.docx,Legitimate Email
+david.crockett@biology.com,Important: Your investment portfolio update.,https://biology.com/meetings/alpha-review,document_92.pdf,Legitimate Email
+marvin.larrow@restaurant.com,"Dear Marvin Larrow, your account has been compromised. Please verify your details immediately.",hxxp://tax-refund-gov.online,malware_16.zip,Phishing Email
+gregory.owens@gov.uk,Exclusive sale: 50% off all items this weekend!,https://gov.uk/tracking/12345,report_84.csv,Legitimate Email
+cheryl.hill@politics.com,Your medical records are now available online.,https://politics.com/tracking/12345,summary_54.txt,Legitimate Email
+john.garcia@realestate.com,New article: The future of AI in 2024.,https://realestate.com/sale,report_84.xls,Legitimate Email
+mathew.rodriguez@chemistry.com,"Professor rodriguez, the assignment deadline is approaching.",https://chemistry.com/portfolio/update,summary_12.csv,Legitimate Email
+joseph.rhodes@manufacturing.com,Tax refund notification: You are eligible for a refund.,hxxps://free-iphone-now.prize-claim.com,malware_52.scr,Phishing Email
+marion.mckay@diy.com,Tax refund notification: You are eligible for a refund.,hxxps://social-media-photo.click/login,malware_87.js,Phishing Email
+sally.mounts@manufacturing.com,Meeting reminder: Project Alpha review at 2 PM today.,https://manufacturing.com/updates,report_16.pdf,Legitimate Email
+thomas.perfater@education.com,Donate now to support our cause and help children.,https://education.com/patient-portal,summary_50.txt,Legitimate Email
+bobbie.adams@personal.com,Your flight booking confirmation: [Booking ID].,https://personal.com/donate,invoice_48.ppt,Legitimate Email
+william.witt@another.net,Donate now to support our cause and help children.,https://another.net/portfolio/update,document_65.ppt,Legitimate Email Email
+beverly.jackson@astronomy.com,"Dear Beverly Jackson, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com,malware_51.zip,Phishing Email
+samantha.carnahan@example.com,"Professor carnahan, the assignment deadline is approaching.",https://example.com/tracking/12345,summary_91.docx,Legitimate Email
+carmen.tomas@chemistry.com,Breaking news: Major earthquake hits California.,https://chemistry.com/bookings/confirmation,summary_61.pdf,Legitimate Email
+frank.brown@example.com,"Dear Frank Brown, your account has been compromised. Please verify your details immediately.",hxxps://free-iphone-now.prize-claim.com,malware_63.js,Phishing Emailfrank.brown@example.com,",""Dear Frank Brown, your account has been compromised. Please verify your details immediately.""",hxxps://free-iphone-now.prize-claim.com,,Phishing Email
+victor.nelson@university.edu,",Someone has tagged you in a photo! See it now.",hxxps://social-media-photo.click/login,,Phishing Emailronald.cloutier@pets.com,qwasz,hxxps://tax-refund-gov.online/verify,,Phishing Email
+ram@1234,"noreply@dare2compete.newsAre you ready to engineer the future of beauty with the world’s No.1 beauty company? The L’Oréal Graduate Engineer Trainee Program offers a 12-month rotational program with hands-on experience in Manufacturing, Supply Chain, Quality Control, Packaging, Product Development, and Sourcing.What’s in it for you?Salary: INR 13 LPAFull-time role with structured career growthLive projects with real business impactGlobal exposure & mentorship from industry leadersApplication Link: Your future starts here - let’s build it together! 💡Regards,Team L'Oréal GET Program",https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+ram@1234,asdvf,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+ram123@gmail.com,asdvf,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+ram123@gmail.com,atawywzwu,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+marion.mckay@diy.com,",Tax refund notification: You are eligible for a refund
+",hxxps://social-media-photo.click/login,,Phishing Email
+marion.mckay@diy.com,67yuhj,hxxps://social-media-photo.click/login,,Phishing Email
+marion.mckay@diy.com,67yuhj,hxxps://social-media-photo.click/login,AniketBMC.pdf,Phishing Email
+noreply@dare2compete.news,"Are you ready to engineer the future of beauty with the world’s No.1 beauty company? 
+The L’Oréal Graduate Engineer Trainee Program offers a 12-month rotational program with hands-on experience in Manufacturing, Supply Chain, Quality Control, Packaging, Product Development, and Sourcing.
+What’s in it for you?
+Salary: INR 13 LPA
+Full-time role with structured career growth
+Live projects with real business impact
+Global exposure & mentorship from industry leaders
+Your future starts here - let’s build it together! 💡
+Regards,
+Team L'Oréal GET Program",https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+support@paypai.com,"Subject: 🚨 Unusual Activity Detected in Your PayPal Account
+Dear Valued Customer,
+We have detected unusual activity in your PayPal account and need you to confirm your identity to prevent temporary suspension.
+Please click the link below to verify your account information:
+👉 Verify My Account
+Failure to verify within 24 hours will result in account suspension.
+Thank you for your prompt attention to this matter.
+Sincerely,
+PayPal Security Team",,,Phishing Email
+From: support@bankofamerica-security.com
+Subject: Urgent: Verify Your Account Within 24 Hours
+URL: https://secure-verification.bankofamerica.com.security-update.verify-account.info/login
+
+
+service@paypal-alerts.net,Subject: Confirm Recent Payment of $999.99,https://paypal-resolution.pay-verification-center.net/login,,Phishing Email
+
+billing@amazn-support.com,Action Required: Account Suspended,https://secure.amazn-check.com.order-resolution-login.io,,Phishing Email
+
+
+noreply@security-microsoft-support.com,Outlook Email Verification Required,https://login.outlook-reset.security-verification-check.live/portal,,Phishing Email
+
+
+security@appleid-alert.com,Your Apple ID has been locked,https://apple.support-id-recovery.com.secure-verify-account.org/login,,Phishing Email
+
+
+refunds@irs-verification.org,You May Be Eligible for a Tax Refund,https://irs.gov.claim-check.recovery-center.co/claim-now,,Phishing Email
+
+
+help@netflix-billing-help.com,Update Your Billing Information,https://netflix.com.account-update.login-confirm.org,,Phishing Email
+
+alert@facebook-securityalerts.com,Your Account Was Accessed From a New Device,https://facebook-login-confirmation.com.security-review.net,,Phishing Email
+
+no-reply@google.security-alerts-help.com,Verify Your Google Account Immediately,https://google-login-account-checker.com.reset-now.site,,Phishing Email
+
+notice@ebay-buyer-alerts.com,Confirm Large Purchase on Your Account,https://ebay-auth.com.purchase-confirm-review.net,,Phishing Email
+
+support@dropbox-notices.com,Your Dropbox Is Almost Full,https://dropbox-confirm.org.storage-upgrade-checker.com/login,,Phishing Email
+
+login@chase-securemail.com,New Device Login Detected,https://chase.bank-login-confirmation.com.secure-session.io,,Phishing Email
+
+notify@linkedin-careers.net,Final Notice: Account Deactivation,https://linkedin-login-support.confirm-deletion-profile.org,,Phishing Email
+
+notice@adobe-subscriptions.com,Your Adobe Plan Has Been Canceled,https://adobe-confirmation-checker.com.reactivate-support.net,,Phishing Email
+
+service@walmart-billing.com,You Have a Pending Refund,https://walmart-login-check-confirm.org.refund-center.,,Phishing Emailservice@paypal-alerts.net,rsdx,https://paypal-resolution.pay-verification-center.net/login,,Legitimate Email
+service@paypal-alerts.net,mn;ik,https://paypal-resolution.pay-verification-center.net/login,,Phishing Email
+support@bankofamerica-security.com,"Subject: Urgent: Verify Your Account Within 24 Hours   
+Dear Customer,  
+We have detected unusual activity on your Bank of America account and temporarily limited access to protect your funds. To restore full access, please verify your identity immediately by confirming your login details. Failure to verify within 24 hours will result in permanent account suspension. Thank you for your prompt attention to this matter.     
+Sincerely,  
+Bank of America Security Team  
+
+",https://secure-verification.bankofamerica.com.security-update.verify-account.info/lo,,Phishing Email
+support@bankofamerica-security.com,"Subject: Urgent: Verify Your Account Within 24 Hours  
+Dear Customer,  
+We have detected unusual activity on your Bank of America account and temporarily limited access to protect your funds. To restore full access, please verify your identity immediately by confirming your login details.  Failure to verify within 24 hours will result in permanent account suspension.  
+Thank you for your prompt attention to this matter.  
+Sincerely,  
+Bank of America Security Team  
+
+",  https://secure-verification.bankofamerica.com.security-update.verify-account.info/login,,Phishing Email
+upport@bankofamerica-security.com,"Subject: Urgent: Verify Your Account Within 24 Hours  
+Dear Customer,  
+We have detected unusual activity on your Bank of America account and temporarily limited access to protect your funds. To restore full access, please verify your identity immediately by confirming your login details. Failure to verify within 24 hours will result in permanent account suspension.  Thank you for your prompt attention to this matter.  
+Sincerely,  
+Bank of America Security Team  ",https://secure-verification.bankofamerica.com.security-update.verify-account.info/lo,,Phishing Email
+noreply@dare2compete.news,"
+Are you ready to engineer the future of beauty with the world’s No.1 beauty company? 
+
+The L’Oréal Graduate Engineer Trainee Program offers a 12-month rotational program with hands-on experience in Manufacturing, Supply Chain, Quality Control, Packaging, Product Development, and Sourcing.
+
+What’s in it for you?
+
+Salary: INR 13 LPA
+Full-time role with structured career growth
+Live projects with real business impact
+Global exposure & mentorship from industry leaders
+
+
+Your future starts here - let’s build it together! 💡
+
+Regards,
+Team L'Oréal GET Program",https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+noreply@dare2compete.news,hi,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+upport@bankofamerica-security.com,"Subject: Urgent: Verify Your Account Within 24 HoursDear CustomerWe have detected unusual activity on your Bank of America account and temporarily limited access to protect your funds. To restore full access please verify your identity immediately by confirming your login details. Failure to verify within 24 hours will result in permanent account suspension.  Thank you for your prompt attention to this matter.Sincerely,Bank of America Security Team,https://secure-verification.bankofamerica.com.security-update.verify-account.info/lo,Phishing Email
+support@bankofamerica-security.com,ewsazx,https://secure-verification.bankofamerica.com.security-update.verify-account.info/lo,,Phishing Email
+upport@bankofamerica-security.com,hii,hxxps://tax-refund-gov.online/verify,,Phishing Email
+
+support@paypal-notify.com,",mknl",hxxps://tax-refund-gov.online/verify,,Phishing Email
+support@paypal-notify.com,"Subject: Urgent Action Required: Account Suspended
+
+Dear [Your Name],
+
+We’ve noticed unusual activity on your account, and as a precaution, we’ve temporarily suspended it. To ensure your account remains secure, we need you to verify your identity immediately.
+
+Please click the link below to confirm your account details and restore access:
+
+[Verify Account Now]
+
+Failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+[Bank Name] Security Team
+[Bank Website URL]",hxxps://tax-refund-gov.online/verify,,Phishing Email
+adibpatil1111@gmail.com,20000000 rs creadited to your account,,,Phishing Email
+user54@fBank-support.com,"Subject: Immediate Action Required: Your Account Has Been Compromised!
+
+Dear [Yogesh Mane],
+
+We’ve detected unusual activity on your account and believe it may have been compromised. To protect your information and prevent unauthorized access, we need you to verify your account immediately.
+
+Please click on the link below to secure your account and confirm your identity:
+
+Verify Your Account Now
+
+If you do not act within 24 hours, we will temporarily suspend your account for security reasons.
+
+For your protection, please do not reply to this email. If you have any concerns, visit our website or contact our support team at support@bankservice.com.
+
+Sincerely,
+The [BankService] Security Team",,,Phishing Email
+adibpatil1111@gmail.com,"Subject: Urgent Action Required: Account Suspended
+
+Dear [Digvijay mohite],
+
+We’ve noticed unusual activity on your account, and as a precaution, we’ve temporarily suspended it. To ensure your account remains secure, we need you to verify your identity immediately.
+
+Please click the link below to confirm your account details and restore access:
+
+[Verify Account Now]
+
+Failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+[SBILl BANK] Security Team
+[http://sbilbank.co]",https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+adibpatil1111@gmail.com,ewsd,https://unstop.com/jobs/graduate-engineer-trainee-loreal,,Legitimate Email
+upport@bankofamerica-security.com,v,hxxps://social-media-photo.click,,Phishing Email
