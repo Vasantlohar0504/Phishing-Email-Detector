@@ -1,0 +1,40 @@
+Email ID: user54@fBank-support.com
+
+Subject: Immediate Action Required: Your Account Has Been Compromised!
+
+Dear [Yogesh Mane],
+
+We’ve detected unusual activity on your account and believe it may have been compromised. To protect your information and prevent unauthorized access, we need you to verify your account immediately.
+
+Please click on the link below to secure your account and confirm your identity:
+
+Verify Your Account Now
+
+If you do not act within 24 hours, we will temporarily suspend your account for security reasons.
+
+For your protection, please do not reply to this email. If you have any concerns, visit our website or contact our support team at support@bankservice.com.
+
+Sincerely,
+The [BankService] Security Team
+
+
+
+
+
+Subject: Urgent: Suspicious Activity Detected on Your Account
+
+From: support@bank-secure.com
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account and have temporarily suspended access to protect your funds. To restore access, please verify your identity immediately by clicking the secure link below:
+
+Verify My Account
+
+Failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Bank Security Team
+Customer Support: (+91023191230)

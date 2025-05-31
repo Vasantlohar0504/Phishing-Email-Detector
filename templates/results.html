@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Phishing Detection Result</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1a3580;
+            padding: 10px 50px;
+            color: white;
+            height: 85px;
+        }
+
+        .navbar-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo-button {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+            border: none;
+            color: white;
+            cursor: pointer;
+            padding: 0;
+            text-decoration: none;
+        }
+
+        .red-logo {
+            filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(7438%) hue-rotate(357deg) brightness(93%) contrast(119%);
+            height: 50px;
+            margin-right: 10px;
+        }
+
+        .brand-name {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .navbar-right {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-right a {
+            margin-left: 20px;
+            text-decoration: none;
+            color: white;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.2s ease;
+        }
+
+        .navbar-right a:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col">
+
+    <!-- Custom Navbar -->
+    <header class="navbar">
+        <div class="navbar-left">
+            <button onclick="window.location.href='{{ url_for('home') }}'" class="logo-button">
+                <img src="{{ url_for('static', filename='logo4.png') }}" alt="Logo" class="red-logo">
+                <span class="brand-name">Phishing Detector</span>
+            </button>
+        </div>
+        <div class="navbar-right">
+            <a href="{{ url_for('home') }}" class="bg-blue text-blue-600 px-4 py-1 rounded hover:bg-gray-100">🏠 Home</a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow container mx-auto px-4 py-8">
+        <div class="bg-white shadow-lg rounded-lg p-6">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-6">Email Analysis Result</h2>
+
+            <div class="space-y-6">
+                <!-- Email Information -->
+                <div class="bg-gray-100 p-4 rounded-md shadow-sm">
+                    <h3 class="text-xl font-medium text-gray-700 mb-3">Email Details</h3>
+                    <div class="space-y-2">
+                        <p><strong class="text-gray-600">Email ID:</strong> <span class="text-gray-800">{{ email_data.emailId }}</span></p>
+                        <p><strong class="text-gray-600">Email Body:</strong> <span class="text-gray-800">{{ email_data.emailBody }}</span></p>
+                        <p><strong class="text-gray-600">Attachments URL:</strong> <span class="text-gray-800">{{ email_data.emailUrl }}</span></p>
+                        <p><strong class="text-gray-600">Attachments:</strong> <span class="text-gray-800">{{ email_data.emailFiles }}</span></p>
+                    </div>
+                </div>
+
+                <!-- Detection Result -->
+                <div class="bg-white p-6 rounded-md shadow-md">
+                    <h3 class="text-lg font-semibold text-gray-800 mb-4">Detection Result</h3>
+                    <p class="p-4 text-white rounded {{ 'bg-red-600' if email_data.phishingResult == 'Phishing Email' else 'bg-green-600' }}">
+                        <span class="font-semibold">{{ email_data.phishingResult }}</span>
+                    </p>
+                </div>
+
+                <!-- Admin Actions (if admin) -->
+                {% if user.role == 'admin' %}
+                <div class="bg-gray-50 p-6 rounded-md shadow-md mt-6">
+                    <h3 class="text-lg font-semibold text-gray-800 mb-4">Admin Actions</h3>
+                    <div class="space-y-4">
+                        <form action="/retrain" method="POST">
+                            <button type="submit" class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400">
+                                Retrain Model
+                            </button>
+                        </form>
+                        <form action="/download_csv" method="GET">
+                            <button type="submit" class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400">
+                                Download CSV
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Back to Home Button -->
+                <a href="{{ url_for('home') }}" class="block mt-8 text-center bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    Analyze Another Email
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center text-sm">
+            &copy; 2025 Phishing Email Detector.
+        </div>
+    </footer>
+</body>
+</html>

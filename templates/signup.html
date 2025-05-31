@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1a3580;
+            padding: 10px 50px;
+            color: white;
+            height: 85px;
+        }
+
+        .navbar-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .red-logo {
+            filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(7438%) hue-rotate(357deg) brightness(93%) contrast(119%);
+            height: 50px;
+            margin-right: 10px;
+        }
+
+        .brand-name {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .navbar-right {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-right a {
+            margin-left: 20px;
+            text-decoration: none;
+            color: white;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.2s ease;
+        }
+
+        .navbar-right a:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 2px solid
+        }
+
+        /* Sign Up Form */
+        .form-container {
+            background-color: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 30px;
+            width: 100%;
+            max-width: 600px;
+            margin-top: 50px;
+        }
+
+        .form-container h1 {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            border-color: #1a3580;
+            outline: none;
+        }
+
+        .form-group input[type="checkbox"] {
+            width: auto;
+        }
+
+        .form-group .checkbox-label {
+            font-size: 14px;
+            font-weight: normal;
+            display: inline-block;
+            margin-left: 8px;
+        }
+
+        .form-group button {
+            width: 100%;
+            padding: 12px;
+            background-color: #1a3580;
+            color: white;
+            font-weight: bold;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.2s ease;
+        }
+
+        .form-group button:hover {
+            background-color: #17408b;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            margin-top: 50px;
+        }
+
+    </style>
+</head>
+<body class="bg-gradient-to-r from-blue-50 via-white to-blue-100 min-h-screen flex flex-col font-sans text-gray-800">
+
+    <!-- Custom Navbar -->
+    <header class="navbar">
+        <div class="navbar-left">
+            <!-- Removed button and just added logo as an image -->
+            <img src="{{ url_for('static', filename='logo4.png') }}" alt="Logo" class="red-logo">
+            <span class="brand-name">Phishing Detector</span>
+        </div>
+        <div class="navbar-right">
+            <a href="/" class="bg-blue text-blue-600 px-4 py-1 rounded hover:bg-gray-100">🏠 Home</a>
+        </div>
+    </header>
+
+    <!-- 📝 Sign Up Form -->
+    <main class="flex-grow flex flex-col justify-center items-center px-4 py-14">
+        <div class="form-container">
+            <h1>Sign Up</h1>
+
+            <!-- Flash Messages -->
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul class="bg-red-100 text-red-700 p-3 rounded mb-4">
+                        {% for message in messages %}
+                            <li>{{ message }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endwith %}
+
+            <!-- Sign Up Form -->
+            <form method="POST" class="space-y-4">
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" name="username" id="username" required class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" name="password" id="password" required class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                <div class="form-group">
+                    <label for="role">Role:</label>
+                    <select name="role" id="role" required class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                        <option value="admin">Admin</option>
+                        <option value="intern">Intern</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="department">Department:</label>
+                    <input type="text" name="department" id="department" required class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                <div class="form-group">
+                    <label class="inline-flex items-center">
+                        <input type="checkbox" name="verified">
+                        <span class="checkbox-label">Verified</span>
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <label for="clearance">Clearance:</label>
+                    <select name="clearance" id="clearance" required class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                        <option value="low">Low</option>
+                        <option value="high">High</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded shadow hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400">Sign Up</button>
+                </div>
+            </form>
+
+            <p class="mt-4 text-sm text-center text-gray-600">
+                Already have an account? <a href="{{ url_for('login') }}" class="text-blue-600 hover:underline">Login here</a>.
+            </p>
+        </div>
+    </main>
+
+    <!-- 📌 Footer -->
+    <footer class="footer">
+        &copy; 2025 Phishing Email Detector
+    </footer>
+
+</body>
+</html>

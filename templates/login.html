@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1a3580;
+            padding: 10px 50px;
+            color: white;
+            height: 85px;
+        }
+
+        .navbar-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo-button {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+            border: none;
+            color: white;
+            cursor: pointer;
+            padding: 0;
+            text-decoration: none;
+            transition: transform 0.2s ease, background-color 0.2s ease;
+        }
+
+        .logo-button:hover {
+            transform: scale(1.05);
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 6px;
+            padding: 4px 8px;
+        }
+
+        .red-logo {
+            filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(7438%) hue-rotate(357deg) brightness(93%) contrast(119%);
+            height: 50px;
+            margin-right: 10px;
+        }
+
+        .brand-name {
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .navbar-right {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-right a {
+            margin-left: 20px;
+            text-decoration: none;
+            color: white;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.2s ease;
+        }
+
+        .navbar-right a:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 2px solid
+        }
+
+    </style>
+</head>
+<body class="bg-gradient-to-r from-blue-50 via-white to-blue-100 min-h-screen flex flex-col font-sans text-gray-800">
+
+    <!-- Custom Navbar -->
+    <header class="navbar">
+        <div class="navbar-left">
+            <!-- Removed logo button and made logo just an image -->
+            <img src="{{ url_for('static', filename='logo4.png') }}" alt="Logo" class="red-logo">
+            <span class="brand-name">Phishing Detector</span>
+        </div>
+        <div class="navbar-right">
+            <a href="/" class="bg-blue text-blue-600 px-4 py-1 rounded hover:bg-gray-100">🏠 Home</a>
+        </div>
+    </header>
+
+    <!-- 📥 Login Form Section -->
+    <main class="flex-grow flex flex-col justify-center items-center px-4">
+        <div class="bg-white shadow-md rounded-lg p-6 w-full max-w-sm mt-8">
+            <h1 class="text-2xl font-bold text-center mb-4">Login</h1>
+           
+
+            <!-- Flash Messages -->
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul class="bg-red-100 text-red-700 p-3 rounded mb-4">
+                        {% for message in messages %}
+                            <li>{{ message }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endwith %}
+
+            <!-- Login Form -->
+            <form method="POST" class="space-y-4">
+                <div>
+                    <label for="username" class="block text-sm font-medium text-gray-700">Username:</label>
+                    <input type="text" name="username" id="username" required
+                           class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                <div>
+                    <label for="password" class="block text-sm font-medium text-gray-700">Password:</label>
+                    <input type="password" name="password" id="password" required
+                           class="w-full mt-1 p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                <button type="submit"
+                        class="w-full bg-blue-600 text-white py-2 rounded shadow hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    Login
+                </button>
+            </form>
+            <p><a href="{{ url_for('forgot_password') }}">Forgot Password?</a></p>
+            <p class="mt-4 text-sm text-center text-gray-600">
+                Don't have an account? <a href="{{ url_for('signup') }}" class="text-blue-600 hover:underline">Sign up here</a>.
+            </p>
+        </div>
+    </main>
+
+    <!-- 📌 Footer (optional) -->
+    <footer class="bg-gray-800 text-white py-4 text-center text-sm">
+        &copy; 2025 Phishing Email Detector
+    </footer>
+
+</body>
+</html>

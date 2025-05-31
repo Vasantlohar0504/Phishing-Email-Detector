@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phishing Email Detection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f3f4f6;
+            color: #333;
+        }
+
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1a3580;
+            padding: 10px 50px;
+            color: white;
+            height: 65px;
+        }
+
+        .navbar-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo {
+            height: 30px;
+            margin-right: 10px;
+        }
+        .red-logo {
+            filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(7438%) hue-rotate(357deg) brightness(93%) contrast(119%);
+            height: 50px;
+            margin-right: 10px;
+        }
+        
+
+        .brand-name {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+       .navbar-right {
+        display: flex;
+        align-items: center;
+       }
+  
+      .navbar-right a {
+        margin-left: 20px;
+        text-decoration: none;
+        color: white;
+        font-weight: 500;
+        padding: 8px 16px;
+        border-radius: 6px;
+        transition: background-color 0.2s ease;
+       }
+
+        .navbar-right a:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 2px solid
+        }
+
+        /* Hero */
+        .hero {
+            background-color: white;
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .hero h1 {
+            font-size: 40px;
+            margin-bottom: 20px;
+            color: #1f2937;
+        }
+
+        .hero p {
+            font-size: 18px;
+            max-width: 700px;
+            margin: 0 auto 30px;
+            color: #4b5563;
+        }
+
+        .hero a button {
+            background-color: #2563eb;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .hero a button:hover {
+            background-color: #3b82f6;
+        }
+
+        /* Section Base */
+        section {
+            padding: 80px 20px;
+        }
+
+        .section-container {
+            max-width: 1200px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        @media (min-width: 768px) {
+            .section-container {
+                flex-direction: row;
+                align-items: center;
+            }
+        }
+
+        .section-container img {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 12px;
+            box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+        }
+
+        .section-text {
+            flex: 1;
+        }
+
+        .section-text h2 {
+            font-size: 28px;
+            color: #1e40af;
+            margin-bottom: 15px;
+        }
+
+        .section-text p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #374151;
+        }
+
+        .section-text ul {
+            margin-top: 20px;
+            padding-left: 20px;
+            list-style-type: disc;
+            color: #374151;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #1e3a8a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-left">
+            <img class="logo red-logo" src="{{ url_for('static', filename='logo4.png') }}" alt="Logo">
+            <span class="brand-name">Phishing Detection</span>
+        </div>
+        <div class="navbar-right">
+            <a href="#about">About Us</a>
+            <a href="#project">Our Project</a>
+            <a href="#contact">Contact</a>
+            
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Welcome to Phishing Email Detection</h1>
+        <p>Protect your inbox with intelligent phishing detection powered by advanced machine learning and heuristics.</p>
+        <a href="{{ url_for('login') }}">
+            <button>Start Detection</button>
+        </a>
+    </section>
+
+    <!-- About Us -->
+    <section id="about">
+        <div class="section-container">
+            <img src="{{ url_for('static', filename='aboutus.jpg') }}" alt="About Us">
+            <div class="section-text">
+                <h2>About Us</h2>
+                <p>
+                    We are a team of passionate developers, cybersecurity researchers, and data scientists committed to creating smarter, safer digital environments.
+                    Our mission is to leverage cutting-edge machine learning algorithms to identify and block phishing threats in real-time.
+                    With expertise in natural language processing, anomaly detection, and secure system design, we aim to empower users and organizations
+                    with tools that make cybersecurity intuitive, effective, and accessible.
+                </p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Our Project -->
+    <section id="project">
+        <div class="section-container">
+            <div class="section-text">
+                <h2>Our Project</h2>
+                <p>
+                    Our phishing detection platform is built using a custom machine learning architecture called <strong>PHINetBoost</strong>, designed for optimal accuracy and minimal false positives.
+                    The system analyzes emails by evaluating headers, body text, links, and attachments. We incorporate NLP techniques for semantic understanding and
+                    employ heuristic rules to catch obfuscated threats. Key features include:
+                </p>
+                <ul>
+                    <li>Real-time email content analysis and classification</li>
+                    <li>Custom-trained ML model with support for continuous learning</li>
+                    <li>Role-based access for administrators and end-users</li>
+                    <li>Secure and responsive web interface with a detailed results dashboard</li>
+                    <li>Comprehensive logging and reporting capabilities</li>
+                </ul>
+            </div>
+            <img src="{{ url_for('static', filename='Project-scope.jpg') }}" alt="Project Overview">
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" style="background-color: #fff;">
+        <div class="section-container">
+            <img src="{{ url_for('static', filename='contactus.jpg') }}" alt="Contact Us">
+            <div class="section-text">
+                <h2>Contact</h2>
+                <p>We'd love to hear from you! For inquiries, feedback, or support, please reach out to us at:</p>
+                <p style="margin-top: 10px; color: #2563eb; font-weight: bold;">support@phishdetector.com</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2025 Phishing Detection. All rights reserved.
+    </footer>
+
+</body>
+</html>

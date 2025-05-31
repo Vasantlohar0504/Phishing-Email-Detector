@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Phishing Email Detector</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" href="{{ url_for('static', filename='logo4.png') }}" >
+  <style>
+    /* Navbar */
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #1a3580;
+      padding: 10px 50px;
+      color: white;
+      height: 85px;
+    }
+
+    .navbar-left {
+      display: flex;
+      align-items: center;
+    }
+
+    .logo-button {
+      display: flex;
+      align-items: center;
+      background-color: transparent;
+      border: none;
+      color: white;
+      cursor: pointer;
+      padding: 0;
+      text-decoration: none;
+    }
+
+    .red-logo {
+      filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(7438%) hue-rotate(357deg) brightness(93%) contrast(119%);
+      height: 50px;
+      margin-right: 10px;
+    }
+
+    .brand-name {
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    .navbar-right {
+      display: flex;
+      align-items: center;
+    }
+
+    .navbar-right a {
+      margin-left: 20px;
+      text-decoration: none;
+      color: white;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 6px;
+      transition: background-color 0.2s ease;
+    }
+
+    .navbar-right a:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-r from-blue-50 via-white to-blue-100 min-h-screen flex flex-col font-sans text-gray-800">
+
+  <!-- Custom Navbar -->
+  <header class="navbar">
+    <div class="navbar-left">
+      <a href="{{ url_for('home') }}" class="logo-button">
+        <img src="{{ url_for('static', filename='logo4.png') }}" alt="Logo" class="red-logo">
+        <span class="brand-name">Phishing Detector</span>
+      </a>
+    </div>
+    <div class="navbar-right">
+      {% if user %}
+        <span class="text-white mr-4">Welcome, <strong>{{ user.username }}</strong> ({{ user.role }})</span>
+        <a href="{{ url_for('logout') }}" class="bg-blue-600 text-white hover:bg-blue-700">Logout</a>
+      {% else %}
+        <a href="{{ url_for('login') }}" class="bg-blue-600 text-white hover:bg-blue-700">Login</a>
+        <a href="{{ url_for('signup') }}" class="bg-blue-600 text-white hover:bg-blue-700">Sign Up</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-grow w-full px-6 py-14 sm:px-10 lg:px-20">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl sm:text-4xl font-bold text-blue-800 mb-2">📧Analyze an Email</h2>
+      <p class="text-md sm:text-lg text-gray-600">Submit email details below to detect phishing threats.</p>
+    </div>
+
+    <form action="{{ url_for('analyze') }}" method="POST" enctype="multipart/form-data" class="space-y-8 max-w-4xl mx-auto">
+      <!-- Email ID -->
+      <div>
+        <label for="emailId" class="block text-sm font-medium mb-1">Email ID:</label>
+        <input type="email" name="emailId" id="emailId" placeholder="abc@gmail.com" required
+               class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+      </div>
+
+      <!-- Email Body -->
+      <div>
+        <label for="emailBody" class="block text-sm font-medium mb-1">Email Body:</label>
+        <textarea name="emailBody" id="emailBody" rows="6" placeholder="Paste the email body here..." required
+                  class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
+      </div>
+
+      <!-- URLs -->
+      <div>
+        <label for="emailUrl" class="block text-sm font-medium mb-1">URLs (optional):</label>
+        <input type="url" name="emailUrl" id="emailUrl" placeholder="http://example.com"
+               class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+      </div>
+
+      <!-- File Attachments -->
+      <div>
+        <label for="emailFiles" class="block text-sm font-medium mb-1">File Attachments:</label>
+        <input type="file" name="emailFiles" multiple id="emailFiles">
+            <class="w-full p-3 border border-blue-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+      </div>
+
+      <!-- Submit Button -->
+      <div class="flex justify-center pt-4">
+        <button type="submit"
+                class="bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold shadow-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400 transition">
+          Analyze Email
+        </button>
+      </div>
+    </form>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-300 py-6">
+    <div class="max-w-7xl mx-auto text-center text-sm">
+      &copy; 2025 <span class="font-semibold text-white">Phishing Email Detector</span>. All rights reserved.
+    </div>
+  </footer>
+
+</body>
+</html>
